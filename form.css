@@ -1,0 +1,118 @@
+.boxTit{
+    background-color: blanchedalmond;
+    width: 1020px;
+    height: 70px;
+    margin-left:11%;
+    position: relative;
+    box-shadow: -2px 2px 12px rgb(84, 81, 81); 
+}
+h1{
+    font-family: montserrat semibold; 
+    color:#604B38;
+    text-align:center;
+    padding: 20px;   
+    font-size: 25px;
+}
+.boxFormIn{
+    width: 1020px;
+    height: 600px; 
+    margin-left: 11%;    
+    color: burlywood;
+    position: relative;
+    background-color: white;
+    box-shadow: -2px 2px 12px rgb(84, 81, 81);
+    display:flex;
+
+}
+.boxFormReg{
+    width: 1020px;
+    height: 1000px; 
+    margin-left: 11%;    
+    color: burlywood;
+    position: relative;
+    background-color: white;
+    box-shadow: -2px 2px 12px rgb(84, 81, 81);
+    display:flex;
+    align-content: center;  
+}
+.formIn{
+    width: 500px;
+    height: 290px;
+    background-color: whitesmoke;
+    border: #f8c895 dashed 4px;
+    border-radius: 8px;
+    margin-top: 6%;
+    margin-left: 23%;   
+    padding: 30px;   
+}
+
+.formReg{
+    width: 600px;
+    height: 830px;
+    background-color: whitesmoke;
+    border: #f8c895 dashed 4px;
+    border-radius: 8px;
+    margin-top: 5%;
+    margin-left: 17%;   
+    padding: 30px;
+    
+    
+}
+.form_inputIn{
+    width: 450px;
+    height: 65px;
+    margin-left: 8%;
+    padding-top: 30px;   
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #604B38;
+
+}
+
+.form_inputReg{
+    width: 450px;
+    height: 65px;
+    margin-left: 15%;
+    padding-top: 25px;   
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #604B38;
+
+}
+
+.form_control{
+    width: 420px;
+    height: 25px;
+    margin-top: 2%;
+    border: #604B38 solid 2px;
+    border-radius: 5px;
+    box-shadow: 0 0 20px #b7b0a4;
+    
+    
+}
+.botonReg{
+    margin-left:15%;
+    margin-top: 5%;
+    font-size: 20px;
+    padding: 10px;
+    background-color:  blanchedalmond;
+    border: #604B38 solid 2px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #b7b0a4;
+    cursor: pointer;
+}
+.botonIn{
+    margin-left:8%;
+    margin-top: 5%;
+    font-size: 20px;
+    padding: 10px;
+    background-color:  blanchedalmond;
+    border: #604B38 solid 2px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #b7b0a4;
+    cursor: pointer;
+}
+   
+    
+
+
